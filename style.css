@@ -1,0 +1,12 @@
+#container {
+  width: 1200px;
+  margin: auto;
+  background: #f60
+}
+
+li {
+   list-style: none;
+   display: inline;
+   border-right: 1px solid black;
+   padding-right: 5px;
+}
